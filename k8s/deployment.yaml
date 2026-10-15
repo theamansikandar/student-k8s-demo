@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: student-k8s-demo
-          image: theamansikandar/student-k8s-demo:REPLACE_WITH_COMMIT_SHA
+          image: theamansikandar/student-k8s-demo:3ca855600b0068db8cb451ab46026251e0a248ba
           ports:
             - containerPort: 5001
 
