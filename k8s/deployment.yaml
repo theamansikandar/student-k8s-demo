@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: student-k8s-demo
-          image: theamansikandar/student-k8s-demo:3ca855600b0068db8cb451ab46026251e0a248ba
+          image: theamansikandar/student-k8s-demo:8dc5219b99e4fdd458cb69c5f85af27e972fc239
           ports:
             - containerPort: 5001
 
